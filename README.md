@@ -27,6 +27,74 @@
 - **API**: Mock API service (easily replaceable with real backend)
 - **Build Tool**: Vite
 
+# 🌈 Energetic Notes App
+
+A vibrant, modern notes application built with **Svelte 5** and **TailwindCSS** that brings energy and excitement to your note-taking experience!
+
+
+
+
+
+## ✨ Features
+
+### Core Functionality
+
+- 📝 **Create Notes** - Add new notes with title and content
+- 👀 **View Notes** - Display all notes in a beautiful grid layout
+- ✏️ **Edit Notes** - Modify existing notes with inline editing
+- 🗑️ **Delete Notes** - Remove notes with confirmation dialog
+- 🔍 **Search Notes** - Real-time search through titles and content
+
+
+### Enhanced User Experience
+
+- 🎨 **Vibrant Design** - Energetic gradient backgrounds and colorful UI
+- 📱 **Responsive Layout** - Works perfectly on mobile, tablet, and desktop
+- ⚡ **Loading States** - Smooth loading animations and feedback
+- 🚨 **Error Handling** - User-friendly error messages
+- 💫 **Hover Effects** - Interactive animations and transforms
+- ⌨️ **Keyboard Support** - ESC to close modals, full keyboard navigation
+
+
+## 🛠️ Tech Stack
+
+- **Frontend Framework**: Svelte 5 (with modern runes API)
+- **Styling**: TailwindCSS
+- **Icons**: Lucide Svelte
+- **API**: Mock API service (easily replaceable with real backend)
+- **Build Tool**: Vite
+
+
+## 🚀 Getting Started
+
+### Prerequisites
+
+- Node.js (v16 or higher)
+- npm or yarn
+
+
+### Installation
+
+1. **Clone the repository**
+
+```shellscript
+git clone [https://github.com/yourusername/energetic-notes-app.git](https://github.com/HydraCaptain/front-chall)
+cd front-chall
+```
+
+
+2. **Install dependencies**
+
+```shellscript
+npm install
+```
+
+
+3. **Start the development server**
+
+```shellscript
+npm run dev
+```
 
 ## 📁 Project Structure
 
