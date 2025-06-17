@@ -27,42 +27,6 @@
 - **API**: Mock API service (easily replaceable with real backend)
 - **Build Tool**: Vite
 
-# 🌈 Energetic Notes App
-
-A vibrant, modern notes application built with **Svelte 5** and **TailwindCSS** that brings energy and excitement to your note-taking experience!
-
-
-
-
-
-## ✨ Features
-
-### Core Functionality
-
-- 📝 **Create Notes** - Add new notes with title and content
-- 👀 **View Notes** - Display all notes in a beautiful grid layout
-- ✏️ **Edit Notes** - Modify existing notes with inline editing
-- 🗑️ **Delete Notes** - Remove notes with confirmation dialog
-- 🔍 **Search Notes** - Real-time search through titles and content
-
-
-### Enhanced User Experience
-
-- 🎨 **Vibrant Design** - Energetic gradient backgrounds and colorful UI
-- 📱 **Responsive Layout** - Works perfectly on mobile, tablet, and desktop
-- ⚡ **Loading States** - Smooth loading animations and feedback
-- 🚨 **Error Handling** - User-friendly error messages
-- 💫 **Hover Effects** - Interactive animations and transforms
-
-
-## 🛠️ Tech Stack
-
-- **Frontend Framework**: Svelte 5 (with modern runes API)
-- **Styling**: TailwindCSS
-- **Icons**: Lucide Svelte
-- **API**: Mock API service (easily replaceable with real backend)
-- **Build Tool**: Vite
-
 
 ## 🚀 Getting Started
 
