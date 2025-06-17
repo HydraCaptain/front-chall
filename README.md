@@ -17,7 +17,6 @@
 - ⚡ **Loading States** - Smooth loading animations and feedback
 - 🚨 **Error Handling** - User-friendly error messages
 - 💫 **Hover Effects** - Interactive animations and transforms
-- ⌨️ **Keyboard Support** - ESC to close modals, full keyboard navigation
 
 
 ## 🛠️ Tech Stack
