@@ -53,7 +53,6 @@ A vibrant, modern notes application built with **Svelte 5** and **TailwindCSS** 
 - ⚡ **Loading States** - Smooth loading animations and feedback
 - 🚨 **Error Handling** - User-friendly error messages
 - 💫 **Hover Effects** - Interactive animations and transforms
-- ⌨️ **Keyboard Support** - ESC to close modals, full keyboard navigation
 
 
 ## 🛠️ Tech Stack
@@ -78,7 +77,7 @@ A vibrant, modern notes application built with **Svelte 5** and **TailwindCSS** 
 1. **Clone the repository**
 
 ```shellscript
-git clone [https://github.com/yourusername/energetic-notes-app.git](https://github.com/HydraCaptain/front-chall)
+git clone [[https://github.com/yourusername/energetic-notes-app.git](https://github.com/HydraCaptain/front-chall)](https://github.com/HydraCaptain/front-chall/tree/master)
 cd front-chall
 ```
 
